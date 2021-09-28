@@ -15,3 +15,14 @@ Smart Home est une application bureau qui offre plusieurs fonctionnalité aux ut
 <span><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></span>
 <code><img height="70" src="https://files.fm/thumb_show.php?i=8unq576tu"></code>
 
+# 📝Credit
+
+<br>
+  Omar JMAI
+
+#👨‍🚀Show your support
+
+<br>
+
+Give a ⭐️ if this project helped you!
+
