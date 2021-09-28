@@ -16,11 +16,9 @@ Smart Home est une application bureau qui offre plusieurs fonctionnalité aux ut
 <code><img height="70" src="https://files.fm/thumb_show.php?i=8unq576tu"></code>
 
 # 📝Credit
-
-<br>
   Omar JMAI
-
-#👨‍🚀Show your support
+  </br>
+# 🚀Show your support
 
 <br>
 
